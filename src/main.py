@@ -6,5 +6,5 @@ while c <100 :
 	c=a+b
 	a=b
 	b=c
-	print('c\n')
+	print('c\r\n')
 
